@@ -6,6 +6,12 @@
 /pkg/
 /spec/reports/
 /tmp/
+Gemfile.lock
+Guardfile
 
 # rspec failure tracking
 .rspec_status
+
+## Environment normalization:
+/.bundle/
+/vendor/bundle
